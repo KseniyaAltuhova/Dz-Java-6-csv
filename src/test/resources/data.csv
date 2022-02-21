@@ -1,0 +1,8 @@
+'registered user. bonus under limit',100060,true,30
+'registered user. bonus over limit',100000060,true,500
+'notregistered user. bonus under limit',100060,false,10
+'notregistered user. bonus over limit',100000060,false,500
+'notregistered user. bonus less for one limit',4990000,false,499
+'notregistered user. bonus equal limit',5000000,false,500
+'notregistered user. bonus more for one limit',5010000,false,500
+'registered user. bonus limit 0',0,true,0,
